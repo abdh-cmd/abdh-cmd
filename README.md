@@ -1,13 +1,13 @@
 # Bonjour, je suis Abdelhakim Moudjahed 👋
 
-### Développeur web en formation | CDA · Futur étudiant en Master Architecture des Systèmes d’Information
+### Étudiant en Master 1 Architecture des Systèmes d’Information | Développeur web full-stack
 
 Je construis des applications web concrètes et structurées, avec un intérêt particulier pour les APIs, les bases de données et les systèmes d’information.
 
 - 📍 Paris / Île-de-France
-- 🎓 CDA — Concepteur Développeur d’Applications, CFA INSTA Paris
-- ✅ Certification Bac+3 / niveau 6 — 2026
-- 🚀 Objectif : poursuivre en Master Architecte des Systèmes d’Information
+- 🎓 Master 1 Architecture des Systèmes d’Information
+- ✅ CDA — Concepteur Développeur d’Applications, CFA INSTA Paris
+- ✅ Niveau Bac+3 / niveau 6 validé en 2026
 - 💼 Recherche d’une alternance en développement informatique / systèmes d’information
 
 ## 🛠️ Compétences techniques
@@ -21,10 +21,10 @@ Je construis des applications web concrètes et structurées, avec un intérêt 
 
 **Back-end & données**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-000000?style=flat-square)
 
 **Outils & conception**
 
